@@ -1,0 +1,50 @@
+body {
+  width: 100%;
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+.linker a {
+  display:block;
+}
+
+.hjem {
+  display: table;
+  margin: 0 auto;
+}
+
+.overskrift {
+  text-align: center;
+}
+
+img {
+  width: 50%;
+  display: table;
+  margin: 0 auto;
+}
+
+.text p {
+  text-align: center;
+}
+
+.list {
+  display: table;
+  margin: 0 auto;
+  font-size: 20px;
+}
+
+#l1:hover {
+  color: blue;
+}
+#l2:hover {
+  color: brown;
+}
+#l3:hover {
+  color: red;
+}
+#l4:hover {
+  color: yellow;
+}
+#l5:hover {
+  color: green;
+}
